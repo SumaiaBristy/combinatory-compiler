@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Data/Students/Sumaia/Thesis/src/Combinators/SubTerm.java</file>
+            <file>file:/C:/Data/Students/Sumaia/Thesis/src/Combinators/YTerm.java</file>
+            <file>file:/C:/Data/Students/Sumaia/Thesis/src/Types/TypeParser.java</file>
+            <file>file:/C:/Data/Students/Sumaia/Thesis/src/Program/PCFTermParser.java</file>
+            <file>file:/C:/Data/Students/Sumaia/Thesis/src/Combinators/INTTerm.java</file>
+            <file>file:/C:/Data/Students/Sumaia/Thesis/src/Combinators/CombinatorTerm.java</file>
+            <file>file:/C:/Data/Students/Sumaia/Thesis/src/Program/Abstraction.java</file>
+            <file>file:/C:/Data/Students/Sumaia/Thesis/src/Combinators/MultTerm.java</file>
+            <file>file:/C:/Data/Students/Sumaia/Thesis/src/Combinators/KTerm.java</file>
+            <file>file:/C:/Data/Students/Sumaia/Thesis/src/Combinators/EqualTerm.java</file>
+            <file>file:/C:/Data/Students/Sumaia/Thesis/src/Combinators/Application.java</file>
+            <file>file:/C:/Data/Students/Sumaia/Thesis/src/Combinators/OrTerm.java</file>
+            <file>file:/C:/Data/Students/Sumaia/Thesis/src/Webasm/Memory.java</file>
+            <file>file:/C:/Data/Students/Sumaia/Thesis/src/Combinators/NotTerm.java</file>
+            <file>file:/C:/Data/Students/Sumaia/Thesis/src/Types/IntType.java</file>
+            <file>file:/C:/Data/Students/Sumaia/Thesis/src/Program/Variable.java</file>
+            <file>file:/C:/Data/Students/Sumaia/Thesis/src/Combinators/STerm.java</file>
+            <file>file:/C:/Data/Students/Sumaia/Thesis/src/Program/VariableGenerator.java</file>
+            <file>file:/C:/Data/Students/Sumaia/Thesis/src/Combinators/AndTerm.java</file>
+            <file>file:/C:/Data/Students/Sumaia/Thesis/src/Program/PCFTerm.java</file>
+            <file>file:/C:/Data/Students/Sumaia/Thesis/src/Combinators/FalseTerm.java</file>
+            <file>file:/C:/Data/Students/Sumaia/Thesis/src/Types/TypeRef.java</file>
+            <file>file:/C:/Data/Students/Sumaia/Thesis/src/Combinators/AddTerm.java</file>
+            <file>file:/C:/Data/Students/Sumaia/Thesis/src/Program/Program.java</file>
+            <file>file:/C:/Data/Students/Sumaia/Thesis/src/Combinators/ITerm.java</file>
+            <file>file:/C:/Data/Students/Sumaia/Thesis/src/Combinators/LEqualTerm.java</file>
+            <file>file:/C:/Data/Students/Sumaia/Thesis/src/Combinators/TrueTerm.java</file>
+            <file>file:/C:/Data/Students/Sumaia/Thesis/src/Program/DeclarationParser.java</file>
+            <file>file:/C:/Data/Students/Sumaia/Thesis/src/Program/Declaration.java</file>
+            <file>file:/C:/Data/Students/Sumaia/Thesis/src/Combinators/VARIABLE.java</file>
+            <file>file:/C:/Data/Students/Sumaia/Thesis/src/Combinators/ConditionalTerm.java</file>
+            <file>file:/C:/Data/Students/Sumaia/Thesis/src/Mainclass.java</file>
+            <file>file:/C:/Data/Students/Sumaia/Thesis/src/Webasm/AbstractMachine.java</file>
+            <file>file:/C:/Data/Students/Sumaia/Thesis/src/Program/Addition.java</file>
+            <file>file:/C:/Data/Students/Sumaia/Thesis/src/Combinators/CombinatorParser.java</file>
+        </group>
+    </open-files>
+</project-private>
