@@ -17,8 +17,10 @@ Compilation of a Functional Programming Language, PCF using Combinators(call_by_
 1. clone the repository
 2. go to src-> TextEditor.java and run
 3. A JFrame window will be open. Input into the Frame window.
-4. check the **exe** folder in the **asm** directory.
-5. After every compilation a new executable file would be generated.
+4. you will be provided with 3 options to check for the input i.e 'check', 'compile' and 'run'
+5. with the 'check' option, program's syntax can be verified
+6. Clicking on the 'compile' button, an executable will be generated which can be found in the asm->exe directory.
+7. After every compilation a new executable file would be generated.
 
 For further clarification on the required input,output and formal procedures please check my detailed thesis here [View Thesis PDF](https://github.com/SumaiaBristy/combinatory-compiler/blob/main/Brock_Aktar_Sumaia_2025.pdf)
 
